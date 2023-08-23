@@ -26,15 +26,23 @@ Scikit-Learn (to implement machine learning models and statistical modelling)
 **Contents:**
 
 Importing the required libraries.
+
 Importing and Reading the dataset.
+
 Data-Preprocessing
+
 Data Modeling
-Separating the data into features and target variable.
-Splitting the data into training and test sets.
-Modeling/ Training the data
-Predicting the data
-Calculating the prediction scores
-Getting the model's accuracy
-Classification Report
-Confusion Matrix
-Plotting the confusion matrix
+
+-Separating the data into features and target variable
+
+-Splitting the data into training and test sets
+
+-Modeling/ Training the data
+
+-Predicting the data
+
+-Calculating the prediction scores
+
+-Getting the model's accuracy
+
+
