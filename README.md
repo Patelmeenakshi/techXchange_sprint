@@ -11,7 +11,7 @@ World Health Organization has estimated 12 million deaths occur worldwide, every
 
 The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).
 
-I have implemented Logistic Regression Model to predict Coronary Heart Disease.
+I have implemented Logistic Regression Model to predict Heart Disease.
 
 **What is Logistic Regression ?**
 
